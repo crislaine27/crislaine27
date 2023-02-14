@@ -1,4 +1,4 @@
-- 👋 Olá, Sou  Crislaine Reis, Líder de Medição  e Análise (Business Intelligence) no Instituto Atlantico
+- 👋 Olá, Sou  Crislaine Reis, Engenheira de Dados na Escale
 - 👀 Estou me especializando em Ciência/Engenharia de Dados
 - 😀 Pronome: Ela/Dela
 
