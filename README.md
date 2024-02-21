@@ -1,5 +1,5 @@
 - 👋 Olá, Sou  Crislaine Reis, Engenheira de Dados na Escale
-- 👀 Estou me especializando em Ciência/Engenharia de Dados
+-  Sou Especialista em Dados, BI e Analytics
 - 😀 Pronome: Ela/Dela
 
 
